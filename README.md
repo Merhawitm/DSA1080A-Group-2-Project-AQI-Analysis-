@@ -56,4 +56,4 @@ We appriciate if you give us suggestions, comments and recommendation. kindly, j
 # How to acess the code
 The file code for this project is named "G_5_DSA_project.ipynb " you can acess it from files _To run succesfully the code,
 
-    go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the "https://github.com/TanveerD1/Group5-DSA-2024" (The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
+    go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the " " (The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
