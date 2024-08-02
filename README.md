@@ -4,17 +4,25 @@ The objective of this project is to analyze the Air Quality Index (AQI) data fro
 # Overview
 This project involves collecting AQI data, cleaning and transforming the data, performing exploratory data analysis, and visualizing the results to gain insights into air quality trends and differences between selected cities. The analysis covers pollutants such as PM2.5, NO2 and O3.
 # Table of Contents
-Importing necessary libraries.
+Importing necessary libraries.  
+
 Loading datasets for four cities.
+
 Transforming the datasets by pivoting to have pollutants as columns.
+
 Data inspection and cleaning.
+
 Handling missing values and duplicate entries.
+
 Converting units and data types for analysis.
+
 Data manipulation and pivoting.
+
 Data exploration and analysis with summary statistics and visualizations.
+
 Comparing AQI data across different cities.
+
 Visualization and interpretation of the results.
-How to Access the Data
 
 # collecting data
 OpenAQ API for filtering data by date, location, and pollutant.
